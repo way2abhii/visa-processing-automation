@@ -39,9 +39,6 @@ Features:
 - Groq LLM
 - OpenAI OSS 120B
 
-## Screenshots
-
-(Add screenshots here)
 
 ## Workflow Import
 
